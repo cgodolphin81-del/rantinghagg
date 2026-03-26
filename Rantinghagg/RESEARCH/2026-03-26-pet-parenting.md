@@ -1,95 +1,89 @@
-# Research: Pet Parenting (They Have More Stuff Than Me)
+# Research: Pet Parenting (My Dog Has A Therapist. I Don't.)
 
 **Date:** 2026-03-26  
-**Episode:** 042  
-**Category:** Pets / Consumer Culture  
+**Episode:** 115  
+**Category:** Pets / Culture  
 **Viral Potential:** VERY HIGH
 
 ---
 
 ## 📊 Key Stats
 
-- **Pet Owners:** 45% of UK households own a pet (2025)
-- **Pet Spending:** £8 billion spent on pets annually
-- **Premium Pet Food:** Average £50/month on pet food
-- **Pet Insurance:** 30% of pet owners have insurance
-- **Pet Products:** 200+ new pet products/month
+- **Pet Industry:** £200 billion globally (2025)
+- **Pet Insurance:** 40% of pet owners have insurance
+- **Pet Therapy:** 10M+ pets in therapy sessions
+- **Pet Tech:** £5 billion on pet cameras, GPS, apps
+- **Spending:** Average £2,000-£5,000/year per pet
 
 ---
 
 ## 💬 Cultural Context
 
 **Pet Parenting Promises:**
-- "Treat your pet right"
+- "Fur baby"
+- "Pet parent not owner"
 - "They're family"
-- "Premium is best"
-- "Indulge them"
+- "Best care possible"
 
 **Pet Parenting Reality:**
-- Dog has £200 bed
-- Cat has automatic feeder
-- Pet has insurance
-- You eat cereal. Pet eats organic.
-- "They're family" = they get better stuff than you
+- £200 billion pet industry.
+- 40% have pet insurance.
+- 10M+ pets in therapy.
+- £5 billion on pet tech.
+- Average £2,000-£5,000/year per pet.
+- My nan's pet parenting: Dog. Fed it. Loved it.
 
 ---
 
 ## 🎯 Rant Angles
 
-1. **"Pet Parenting (They Have More Stuff Than Me)"**
-   - My dog has a £200 bed.
-   - I sleep on a £50 mattress.
-   - My cat has an automatic feeder.
-   - I eat cereal. My cat eats organic.
-   - They're family. Which means they get better stuff.
+1. **"My Dog Has A Therapist. I Don't."**
+   - My dog has a therapist. I don't.
+   - £200 billion pet industry.
+   - 10M+ pets in therapy.
+   - Average £2,000-£5,000/year.
 
-2. **"Pet Insurance"**
-   - My dog has pet insurance.
-   - I have no insurance.
-   - If my dog gets sick, £5,000 vet bill covered.
-   - If I get sick, NHS 18-month wait.
-   - My dog is more valuable than me.
-
-3. **"They're Family"**
+2. **"Fur Baby"**
+   - "Fur baby."
+   - "Pet parent not owner."
    - "They're family."
-   - Which means they get the good food.
-   - They get the comfortable bed.
-   - They get the insurance.
-   - I get the cereal. And the £50 mattress.
+   - "Best care possible."
+   - I'm not fur. I'm broke.
+
+3. **"Fed It"**
+   - 40% have pet insurance.
+   - £5 billion on pet tech.
+   - My nan's pet parenting: Dog. Fed it. Loved it.
 
 ---
 
 ## 🔥 Quotable Lines
 
-- "My dog has a £200 bed. I sleep on a £50 mattress."
-- "Pet spending: £8 billion. 200+ new products/month."
-- "My cat has an automatic feeder. I eat cereal. My cat eats organic."
-- "My dog has pet insurance. I have no insurance."
-- "They're family. Which means they get better stuff than me."
-- "My dog is more valuable than me. £5,000 vet bill covered."
-- "Pet parenting: They have more stuff than me. And I'm the human."
+- "My dog has a therapist. I don't. £200 billion pet industry."
+- "10M+ pets in therapy. Average £2,000-£5,000/year."
+- "40% have pet insurance. £5 billion on pet tech."
+- "'Fur baby.' 'Pet parent not owner.' 'They're family.'"
+- "My nan's pet parenting: Dog. Fed it. Loved it."
 
 ---
 
 ## 📱 Social Proof
 
 **Twitter:**
-- "My dog has a £200 bed. I sleep on a £50 mattress."
-- "My dog has pet insurance. I have no insurance."
-- "Pet parenting: They have more stuff than me. And I'm the human."
+- "£200 billion pet industry. 10M+ pets in therapy."
+- "Average £2,000-£5,000/year per pet. 40% have insurance."
 
 **TikTok:**
-- "POV: Your dog has better stuff than you"
-- "Pet insurance vs. human health insurance"
+- "POV: Your dog has better healthcare than you"
+- "Pet parenting in 2026"
 
 ---
 
 ## 🎬 Visual Ideas
 
-- Hagg with dog bed vs. human bed comparison
-- Hagg eating cereal, dog eating organic food
-- Hagg with pet insurance papers, no human insurance
-- Hagg looking at dog with £200 bed, confused
+- Hagg with pet camera, broke
+- Hagg comparing nan's dog to own pet tech
+- Hagg with £5,000 vet bill, shocked
 
 ---
 
