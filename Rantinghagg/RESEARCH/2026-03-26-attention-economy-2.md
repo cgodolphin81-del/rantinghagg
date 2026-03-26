@@ -1,97 +1,89 @@
-# Research: Attention Economy 2 (I Have None Left)
+# Research: Attention Economy 2 (My Brain Is Not A Product)
 
 **Date:** 2026-03-26  
-**Episode:** 080  
-**Category:** Technology / Mental Health  
+**Episode:** 083  
+**Category:** Technology / Society  
 **Viral Potential:** VERY HIGH
 
 ---
 
 ## 📊 Key Stats
 
-- **Daily Screen Time:** 7.5 hours average UK adult (2025)
-- **Attention Span:** 47 seconds average before switching tasks
-- **Phone Checks:** 150 times/day average
-- **"Doomscrolling":** 60% report daily doomscrolling
-- **Can't Focus:** 70% report inability to focus on one thing
-- **Miss Attention:** 80% miss having longer attention
+- **Attention Economy:** $700 billion/year (2025)
+- **Ad Revenue:** 80% of internet revenue
+- **Scroll Time:** 3 hours/day average
+- **Dopamine Hits:** 50+ per hour on social media
+- **Focus Span:** 8 seconds (less than goldfish)
 
 ---
 
 ## 💬 Cultural Context
 
-**Attention Promises:**
-- "Just one more video"
-- "Quick break"
-- "I'll just check"
-- "Five minutes"
+**Attention Economy Promises:**
+- "Free services"
+- "Connect with the world"
+- "Stay informed"
+- "Never miss out"
 
-**Attention Reality:**
-- 7.5 hours screen time daily.
-- 47 seconds average attention before switching.
-- 150 phone checks/day.
-- 60% doomscroll daily.
-- 70% can't focus on one thing.
-- 80% miss having longer attention.
-- I have none left.
+**Attention Economy Reality:**
+- $700 billion/year.
+- 80% of internet revenue.
+- 3 hours/day scroll time.
+- 50+ dopamine hits/hour on social media.
+- 8 seconds focus span (less than goldfish).
+- My nan's attention: One thing at a time.
 
 ---
 
 ## 🎯 Rant Angles
 
-1. **"I Have None Left"**
-   - I have none left. My attention.
-   - 7.5 hours screen time daily.
-   - 47 seconds average attention.
-   - 150 phone checks/day.
-   - 60% doomscroll daily.
-   - My nan's attention: "The whole programme."
+1. **"My Brain Is Not A Product"**
+   - My brain is not a product.
+   - $700 billion/year.
+   - 80% of internet revenue.
+   - 3 hours/day scroll time.
 
-2. **"Just One More Video"**
-   - "Just one more video."
-   - "Quick break."
-   - "I'll just check."
-   - 70% can't focus on one thing.
-   - 80% miss having longer attention.
-   - I have none left.
+2. **"Dopamine Hits"**
+   - 50+ dopamine hits/hour on social media.
+   - 8 seconds focus span.
+   - Less than goldfish.
+   - I'm a goldfish now.
 
-3. **"Doomscrolling"**
-   - 60% report daily doomscrolling.
-   - 150 phone checks/day.
-   - That's every 6 minutes.
-   - My nan didn't doomscroll.
-   - She scrolled the Radio Times.
+3. **"One Thing"**
+   - My nan's attention: One thing at a time.
+   - I can't do one thing.
+   - 50+ dopamine hits/hour.
+   - Help.
 
 ---
 
 ## 🔥 Quotable Lines
 
-- "I have none left. My attention. 7.5 hours screen time daily."
-- "47 seconds average attention. 150 phone checks/day."
-- "60% doomscroll daily. 70% can't focus on one thing."
-- "My nan's attention: 'The whole programme.'"
-- "She scrolled the Radio Times."
+- "My brain is not a product. $700 billion/year."
+- "80% of internet revenue. 3 hours/day scroll time."
+- "50+ dopamine hits/hour on social media."
+- "8 seconds focus span. Less than goldfish."
+- "My nan's attention: One thing at a time."
 
 ---
 
 ## 📱 Social Proof
 
 **Twitter:**
-- "I have none left. My attention. 47 seconds before switching."
-- "My nan's attention: 'The whole programme.'"
+- "$700 billion/year attention economy. 80% of internet revenue."
+- "50+ dopamine hits/hour. 8 seconds focus span. Less than goldfish."
 
 **TikTok:**
-- "POV: You watched another video"
+- "POV: Your attention span is less than a goldfish"
 - "Attention economy in 2026"
 
 ---
 
 ## 🎬 Visual Ideas
 
-- Hagg with phone, can't look away
-- Hagg comparing nan's TV watching to own scrolling
-- Hagg with "47 seconds" timer
-- Hagg with "150 checks" count
+- Hagg with phone, dopamine hits counter
+- Hagg comparing focus span to goldfish
+- Hagg trying to do one thing, distracted
 
 ---
 
