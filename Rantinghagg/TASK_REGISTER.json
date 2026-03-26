@@ -126,22 +126,106 @@
         "script": { "status": "complete", "file": "EPISODES/006-expensive-candle/script.md", "completedAt": "2026-03-26T07:50" },
         "prompts": { "status": "complete", "file": "EPISODES/006-expensive-candle/prompts.md", "completedAt": "2026-03-26T07:55" },
         "assets": { "status": "pending" },
+        "merch": { "status": "complete", "file": "MERCH/006-expensive-candle.md", "completedAt": "2026-03-26T08:05" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "assets",
+      "notes": "All stages complete except assets. Awaiting ComfyUI."
+    },
+    {
+      "id": "007",
+      "episodeName": "The Digital Detox Journey™",
+      "topic": "digital-detox",
+      "category": "Social Media Culture",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-digital-detox.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/007-digital-detox/rant.md", "completedAt": "2026-03-26T08:05" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "merch",
-      "notes": "Prompts complete (90s). Ready for merch concepts."
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script writing."
+    },
+    {
+      "id": "008",
+      "episodeName": "The Dating Profile Industrial Complex",
+      "topic": "dating-apps",
+      "category": "Modern Romance",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-dating-apps.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/008-dating-apps/rant.md", "completedAt": "2026-03-26T08:05" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script writing."
+    },
+    {
+      "id": "009",
+      "episodeName": "Wellness For People Who Have Money",
+      "topic": "wellness-trends",
+      "category": "Wellness Industry",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-wellness-trends.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/009-wellness-trends/rant.md", "completedAt": "2026-03-26T08:05" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script writing."
+    },
+    {
+      "id": "010",
+      "episodeName": "I Don't Own Anything Anymore",
+      "topic": "subscription-fatigue",
+      "category": "Subscription Economy",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "very-high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-subscription-fatigue.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/010-subscription-fatigue/rant.md", "completedAt": "2026-03-26T08:05" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script writing. High viral potential."
     }
   ],
   "queue": {
-    "nextEpisodeId": "007",
+    "nextEpisodeId": "011",
     "pendingResearch": [],
-    "readyForScript": [],
+    "readyForScript": ["007", "008", "009", "010"],
     "readyForPrompts": [],
-    "awaitingAssets": ["001", "002", "003"],
-    "readyForMerch": ["004", "005", "006"],
+    "awaitingAssets": ["001", "002", "003", "004", "005", "006"],
+    "readyForMerch": [],
     "readyToPublish": [],
-    "blockedOnHuman": ["001", "002", "003"],
-    "humanActionRequired": "ComfyUI image generation for episodes 001-003. Prompts ready in EPISODES/*/prompts.md"
+    "blockedOnHuman": ["001", "002", "003", "004", "005", "006"],
+    "humanActionRequired": "ComfyUI image generation for episodes 001-006. Prompts ready in EPISODES/*/prompts.md"
   }
 }
