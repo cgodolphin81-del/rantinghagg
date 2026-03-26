@@ -1,0 +1,17 @@
+# OpenClaw runtime files
+.openclaw/
+.local/
+skills/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
