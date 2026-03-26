@@ -217,11 +217,117 @@
       "notes": "Script complete (90s). Very high viral potential. Ready for prompts."
     }
   ],
+    {
+      "id": "011",
+      "episodeName": "Everyone's An Influencer Now",
+      "topic": "influencer-culture",
+      "category": "Influencer Culture",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-influencer-culture.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/011-influencer-culture/rant.md", "completedAt": "2026-03-26T08:45" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script."
+    },
+    {
+      "id": "012",
+      "episodeName": "Your Screen Time Report Came In",
+      "topic": "smartphone-addiction",
+      "category": "Tech Addiction",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "very-high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-smartphone-addiction.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/012-smartphone-addiction/rant.md", "completedAt": "2026-03-26T08:45" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Very high viral potential."
+    },
+    {
+      "id": "013",
+      "episodeName": "Be Your Own Boss (Unemployed)",
+      "topic": "gig-economy",
+      "category": "Gig Economy",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-gig-economy.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/013-gig-economy/rant.md", "completedAt": "2026-03-26T08:45" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script."
+    },
+    {
+      "id": "014",
+      "episodeName": "My Parents' House Cost £30k",
+      "topic": "housing-market",
+      "category": "Housing Crisis",
+      "createdAt": "2026-03-26",
+      "priority": "high",
+      "viralPotential": "very-high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-housing-market.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/014-housing-market/rant.md", "completedAt": "2026-03-26T08:45" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Very high viral potential."
+    },
+    {
+      "id": "015",
+      "episodeName": "My Therapist Is An Algorithm",
+      "topic": "ai-everywhere",
+      "category": "AI Everywhere",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-ai-everywhere.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/015-ai-everywhere/rant.md", "completedAt": "2026-03-26T08:45" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script."
+    }
+  ],
   "queue": {
-    "nextEpisodeId": "011",
+    "nextEpisodeId": "016",
     "pendingResearch": [],
-    "readyForScript": [],
-    "readyForPrompts": ["007", "008", "009", "010"],
+    "readyForScript": ["007", "008", "009", "010", "011", "012", "013", "014", "015"],
+    "readyForPrompts": [],
     "awaitingAssets": ["001", "002", "003", "004", "005", "006"],
     "readyForMerch": [],
     "readyToPublish": [],
