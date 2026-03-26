@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2026-03-26",
-    "lastUpdated": "2026-03-26T07:40:00Z",
+    "lastUpdated": "2026-03-26T07:45:00Z",
     "pipelineVersion": "1.0",
     "heartbeatInterval": "10 minutes"
   },
@@ -68,17 +68,80 @@
       },
       "nextAction": "assets",
       "notes": "Prompts + merch ready. AWAITING HUMAN: ComfyUI generation. HIGH PRIORITY."
+    },
+    {
+      "id": "004",
+      "episodeName": "The Smart Fridge",
+      "topic": "smart-home",
+      "category": "Tech Dependency",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-smart-home.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/004-smart-fridge/rant.md", "completedAt": "2026-03-26T07:45" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script writing."
+    },
+    {
+      "id": "005",
+      "episodeName": "The Authenticity Video",
+      "topic": "authenticity",
+      "category": "Social Media Culture",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "very-high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-authenticity.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/005-authenticity-video/rant.md", "completedAt": "2026-03-26T07:45" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. High viral potential. Ready for script."
+    },
+    {
+      "id": "006",
+      "episodeName": "The Expensive Candle",
+      "topic": "expensive-candle",
+      "category": "First World Problems",
+      "createdAt": "2026-03-26",
+      "priority": "medium",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-expensive-candle.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/006-expensive-candle/rant.md", "completedAt": "2026-03-26T07:45" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending" },
+        "merch": { "status": "pending" },
+        "published": { "status": "pending" }
+      },
+      "nextAction": "script",
+      "notes": "Rant complete. Ready for script writing."
     }
   ],
   "queue": {
-    "nextEpisodeId": "004",
+    "nextEpisodeId": "007",
     "pendingResearch": [],
-    "readyForScript": [],
+    "readyForScript": ["004", "005", "006"],
     "readyForPrompts": [],
     "awaitingAssets": ["001", "002", "003"],
     "readyForMerch": [],
     "readyToPublish": [],
     "blockedOnHuman": ["001", "002", "003"],
-    "humanActionRequired": "ComfyUI image generation for all 3 episodes. Prompts ready in EPISODES/*/prompts.md"
+    "humanActionRequired": "ComfyUI image generation for episodes 001-003. Prompts ready in EPISODES/*/prompts.md"
   }
 }
