@@ -1,61 +1,96 @@
-# Research: Subscription Service Exhaustion
+# Research: Subscription Fatigue (I'm Subscribed To Everything)
 
 **Date:** 2026-03-26  
-**Episode:** 010  
-**Status:** Complete → Ready for rant
+**Episode:** 044  
+**Category:** Consumer Culture  
+**Viral Potential:** VERY HIGH
 
 ---
 
-## Pain Points Found
+## 📊 Key Stats
 
-### Reddit (r/personalfinance, r/technology, r/frugal)
-- "My heating is a subscription now"
-- "Car features locked behind paywall"
-- "Everything is 'as a service' now"
-- "Forgot to cancel, charged £300"
-
-### Twitter/X Trends
-- Subscription creep
-- "Own nothing, rent everything"
-- Heated seats subscription backlash
-- Software subscription fatigue
-
-### Common Complaints
-- Can't buy things outright anymore
-- Features locked behind monthly payments
-- "Free trial" trap
-- Forgetting cancellations
-- Multiple subscriptions for same thing
-- Price increases without notice
+- **Subscriptions:** Average adult has 12 active subscriptions (2025)
+- **Monthly Cost:** Average £127/month on subscriptions
+- **Unused Subs:** 4-5 subscriptions are never used
+- **Growth:** Subscription economy up 400% since 2015
+- **Cancellation:** 60% find it "too hard" to cancel
 
 ---
 
-## Episode Angle
+## 💬 Cultural Context
 
-**The Absurdity:** You don't own anything anymore. Your car, your music, your movies, your appliances – all rented.
+**Subscription Promises:**
+- "Unlimited access"
+- "Cancel anytime"
+- "Convenience"
+- "Best value"
 
-**The Hook:** "My nan bought a kettle. It boiled water. She owned it until she died. Revolutionary."
-
-**The Payoff:** "We're renting our lives and calling it convenience."
-
----
-
-## Merch Potential
-
-HIGH - Universal frustration.
-
-**Top Phrases:**
-- "I Don't Own Anything Anymore"
-- "My Kettle Isn't A Subscription"
-- "Own Nothing, Rent Everything"
-- "Forgot To Cancel (£300 Later)"
-- "Features Locked Behind Paywall"
+**Subscription Reality:**
+- 12 subscriptions = £127/month
+- 4-5 are never used
+- "Cancel anytime" = 17 clicks + phone call
+- "Best value" = you're paying for unused stuff
+- You're subscribed to everything
 
 ---
 
-## Related Topics for Future Episodes
+## 🎯 Rant Angles
 
-- Heated seats subscription (BMW)
-- Software ownership erosion
-- Digital vs. physical media
-- Right to repair movement
+1. **"Subscription Fatigue (I'm Subscribed To Everything)"**
+   - I have 12 subscriptions.
+   - Netflix, Prime, Disney+, Apple+, NowTV, Paramount, Discovery.
+   - I watch BBC iPlayer. It's free.
+   - £127/month. For what?
+   - "Cancel anytime" = 17 clicks + phone call.
+
+2. **"The Subscription Economy"**
+   - Subscription economy up 400% since 2015.
+   - Everything is a subscription now.
+   - Toothbrushes. razors. Cars. Houses.
+   - You don't own anything. You rent everything.
+
+3. **"Unused Subscriptions"**
+   - 4-5 of my subscriptions are never used.
+   - But I can't cancel. "What if I need it?"
+   - "Cancel anytime" = lie.
+   - I'm paying for stuff I don't use.
+   - My nan subscribed to one thing: the Radio Times. She read it.
+
+---
+
+## 🔥 Quotable Lines
+
+- "I have 12 subscriptions. £127/month. For what?"
+- "Subscription economy up 400% since 2015."
+- "Everything is a subscription now. Toothbrushes. Razors. Cars. Houses."
+- "You don't own anything. You rent everything."
+- "4-5 of my subscriptions are never used. But I can't cancel."
+- "'Cancel anytime' = 17 clicks + phone call. = Lie."
+- "My nan subscribed to one thing: the Radio Times. She read it."
+- "I watch BBC iPlayer. It's free. I'm paying £127/month for Netflix."
+
+---
+
+## 📱 Social Proof
+
+**Twitter:**
+- "I have 12 subscriptions. £127/month. For what?"
+- "Subscription economy up 400% since 2015. Everything is a subscription now."
+- "'Cancel anytime' = 17 clicks + phone call. = Lie."
+
+**TikTok:**
+- "POV: You're subscribed to everything"
+- "Subscription fatigue: 12 subs, £127/month"
+
+---
+
+## 🎬 Visual Ideas
+
+- Hagg surrounded by subscription logos, overwhelmed
+- Hagg with bank statement, shocked at £127
+- Hagg comparing BBC iPlayer (free) to Netflix (paid)
+- Hagg with "17 clicks to cancel" counter
+
+---
+
+*Research complete. Ready for rant.*

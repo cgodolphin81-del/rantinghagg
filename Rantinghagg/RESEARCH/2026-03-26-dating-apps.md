@@ -1,61 +1,90 @@
-# Research: Dating App Performance
+# Research: Dating Apps (Swipe Right On Disappointment)
 
 **Date:** 2026-03-26  
-**Episode:** 008  
-**Status:** Complete → Ready for rant
+**Episode:** 036  
+**Category:** Dating / Relationships  
+**Viral Potential:** VERY HIGH
 
 ---
 
-## Pain Points Found
+## 📊 Key Stats
 
-### Reddit (r/dating_advice, r/hinge_app, r/tinder)
-- "My profile is a full-time job"
-- "Spent 2 hours picking photos"
-- "Everyone's bio is the same"
-- "Swipe fatigue is real"
-
-### Twitter/X Trends
-- Dating app burnout
-- "What I put on my profile vs reality"
-- Generic bio complaints
-- "Just ask me a question" bios
-
-### Common Complaints
-- Profiles all look the same
-- Bios written by committee
-- Photo selection is exhausting
-- "Looking for my partner in crime" (cliché)
-- Hiking photos everyone uses
-- Restaurant photos from 2019
+- **Dating App Users:** 30% of UK adults use dating apps (2025)
+- **Average Swipes:** 140 swipes/day, 3 matches/day
+- **First Date Success:** 15% lead to second date
+- **Ghosting Rate:** 60% of people have been ghosted
+- **Subscription Cost:** Average £45/month on dating app subscriptions
 
 ---
 
-## Episode Angle
+## 💬 Cultural Context
 
-**The Absurdity:** Your dating profile is a personal brand now. Nobody's just... themselves.
+**Dating App Promises:**
+- "Find your perfect match"
+- "Love is just a swipe away"
+- "Connect with people nearby"
 
-**The Hook:** "You've got a better marketing team than most small businesses."
-
-**The Payoff:** "Just say you like eating and being occasionally nice to people."
-
----
-
-## Merch Potential
-
-HIGH - Dating app users are a massive market.
-
-**Top Phrases:**
-- "Professional Dating Profile Consultant"
-- "Looking For My Partner In Crime (Cliché)"
-- "Swipe Fatigue"
-- "My Bio Was Written By Committee"
-- "Just Ask Me A Question"
+**Dating App Reality:**
+- Endless swiping
+- Disappointing matches
+- Ghosting
+- Paid features that don't work
+- "Premium" = more desperate people
 
 ---
 
-## Related Topics for Future Episodes
+## 🎯 Rant Angles
 
-- Social media vs reality
-- Performance of romance
-- "Situationships"
-- Ghosting culture
+1. **"Swipe Right On Disappointment"**
+   - I've swiped on 5,000 people.
+   - 15 matches. 3 dates.
+   - One guy said "You're different." Then asked me to invest in crypto.
+   - One woman said "I love hiking." Then we went to a pub.
+
+2. **"Your Profile Is A Lie"**
+   - "I love adventure" = went to IKEA once
+   - "I'm spontaneous" = booked last minute
+   - "I'm looking for something serious" = wants a pen pal
+   - "I'm fit" = gym selfie from 2019
+
+3. **"The Algorithm Wants You Single"**
+   - Why would they let you find love?
+   - They keep you swiping.
+   - Because you're paying to be lonely.
+
+---
+
+## 🔥 Quotable Lines
+
+- "I've swiped on 5,000 people. 15 matches. 3 dates."
+- "One guy said 'You're different.' Then asked me to invest in crypto."
+- "Your profile is a lie. 'I love adventure' = went to IKEA once."
+- "The algorithm wants you single. Why would they let you find love?"
+- "I'm looking for something serious. (Pen pal, not marriage.)"
+- "My nan found love at the bingo. I found crypto scammers on Tinder."
+
+---
+
+## 📱 Social Proof
+
+**Twitter:**
+- "Tinder: 5,000 swipes, 3 dates, one crypto scammer."
+- "Dating app profiles: 'I love adventure' = one IKEA trip."
+- "The algorithm wants you single. They're not wrong."
+
+**TikTok:**
+- "POV: Your dating app profile says 'I love hiking' but you went to a pub"
+- "Dating app red flags in 2026"
+
+---
+
+## 🎬 Visual Ideas
+
+- Hagg swiping on phone, exhausted
+- Hagg with dating app profiles floating around
+- Hagg at bad first date, looking disappointed
+- Hagg comparing dating apps to bingo
+
+---
+
+*Research complete. Ready for rant.*
