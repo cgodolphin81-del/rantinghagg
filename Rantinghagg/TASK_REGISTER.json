@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2026-03-26",
-    "lastUpdated": "2026-03-26T07:27:00Z",
+    "lastUpdated": "2026-03-26T07:40:00Z",
     "pipelineVersion": "1.0",
     "heartbeatInterval": "10 minutes"
   },
@@ -18,14 +18,14 @@
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-corporate-jargon.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/001-corporate-jargon/rant.md", "completedAt": "2026-03-26" },
-        "script": { "status": "pending" },
-        "prompts": { "status": "pending" },
-        "assets": { "status": "pending", "note": "Awaiting ComfyUI - thumbnail + scenes" },
-        "merch": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/001-corporate-jargon/script.md", "completedAt": "2026-03-26T07:35" },
+        "prompts": { "status": "complete", "file": "EPISODES/001-corporate-jargon/prompts.md", "completedAt": "2026-03-26T07:40" },
+        "assets": { "status": "pending", "note": "AWAITING HUMAN: ComfyUI - thumbnail + 7 scenes" },
+        "merch": { "status": "complete", "file": "MERCH/001-corporate-jargon.md", "completedAt": "2026-03-26T07:40" },
         "published": { "status": "complete", "url": "https://rantinghagg.netlify.app/rants/corporate-jargon.html", "completedAt": "2026-03-26" }
       },
-      "nextAction": "script",
-      "notes": "Existing rant on website. Needs video script and thumbnails."
+      "nextAction": "assets",
+      "notes": "Prompts + merch ready. AWAITING HUMAN: ComfyUI generation."
     },
     {
       "id": "002",
@@ -39,14 +39,14 @@
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-self-help.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/002-self-help-books/rant.md", "completedAt": "2026-03-26" },
-        "script": { "status": "pending" },
-        "prompts": { "status": "pending" },
-        "assets": { "status": "pending", "note": "Awaiting ComfyUI - thumbnail + scenes" },
-        "merch": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/002-self-help-books/script.md", "completedAt": "2026-03-26T07:35" },
+        "prompts": { "status": "complete", "file": "EPISODES/002-self-help-books/prompts.md", "completedAt": "2026-03-26T07:40" },
+        "assets": { "status": "pending", "note": "AWAITING HUMAN: ComfyUI - thumbnail + 7 scenes" },
+        "merch": { "status": "complete", "file": "MERCH/002-self-help-books.md", "completedAt": "2026-03-26T07:40" },
         "published": { "status": "complete", "url": "https://rantinghagg.netlify.app/rants/self-help-books.html", "completedAt": "2026-03-26" }
       },
-      "nextAction": "script",
-      "notes": "Existing rant on website. Needs video script and thumbnails."
+      "nextAction": "assets",
+      "notes": "Prompts + merch ready. AWAITING HUMAN: ComfyUI generation."
     },
     {
       "id": "003",
@@ -60,23 +60,25 @@
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-ai.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/003-ai-replacing-us/rant.md", "completedAt": "2026-03-26" },
-        "script": { "status": "pending" },
-        "prompts": { "status": "pending" },
-        "assets": { "status": "pending", "note": "Awaiting ComfyUI - thumbnail + scenes" },
-        "merch": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/003-ai-replacing-us/script.md", "completedAt": "2026-03-26T07:35" },
+        "prompts": { "status": "complete", "file": "EPISODES/003-ai-replacing-us/prompts.md", "completedAt": "2026-03-26T07:40" },
+        "assets": { "status": "pending", "note": "AWAITING HUMAN: ComfyUI - thumbnail + 6 scenes" },
+        "merch": { "status": "complete", "file": "MERCH/003-ai-replacing-us.md", "completedAt": "2026-03-26T07:40" },
         "published": { "status": "complete", "url": "https://rantinghagg.netlify.app/rants/ai-replacing-us.html", "completedAt": "2026-03-26" }
       },
-      "nextAction": "script",
-      "notes": "Existing rant on website. High viral potential. Prioritise."
+      "nextAction": "assets",
+      "notes": "Prompts + merch ready. AWAITING HUMAN: ComfyUI generation. HIGH PRIORITY."
     }
   ],
   "queue": {
     "nextEpisodeId": "004",
     "pendingResearch": [],
-    "readyForScript": ["001", "002", "003"],
+    "readyForScript": [],
     "readyForPrompts": [],
-    "awaitingAssets": [],
+    "awaitingAssets": ["001", "002", "003"],
     "readyForMerch": [],
-    "readyToPublish": []
+    "readyToPublish": [],
+    "blockedOnHuman": ["001", "002", "003"],
+    "humanActionRequired": "ComfyUI image generation for all 3 episodes. Prompts ready in EPISODES/*/prompts.md"
   }
 }
