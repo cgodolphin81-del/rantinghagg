@@ -1,18 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;700;900&family=Patrick+Hand&display=swap');
 
 :root {
     --black: #1A1A1A;
     --red: #DC2626;
     --white: #FFFFFF;
+    --tea-cream: #F5E6D3;
+    --burgundy: #8B2252;
+    --cardigan-green: #4A6741;
+    --biscuit-gold: #D4A654;
 }
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: var(--white);
+    background-color: var(--tea-cream);
     color: var(--black);
     margin: 0;
     padding: 0;
     line-height: 1.5;
+}
+
+.handwritten {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.4rem;
+    line-height: 1.6;
 }
 
 h1, h2, h3, .heading-font {
@@ -87,31 +97,77 @@ nav a:hover {
 
 .rant-card {
     border: 5px solid var(--black);
-    padding: 2rem;
+    padding: 0;
     transition: transform 0.2s, box-shadow 0.2s;
     background: var(--white);
+    overflow: hidden;
 }
 
 .rant-card:hover {
     transform: translate(-5px, -5px);
-    box-shadow: 10px 10px 0px var(--red);
+    box-shadow: 15px 15px 0px var(--burgundy);
 }
 
-.rant-card h3 {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
+/* Thumbnail Container */
+.rant-card .thumbnail {
+    width: 100%;
+    height: 220px;
+    background: linear-gradient(135deg, var(--burgundy) 0%, var(--black) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.rant-card .thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.rant-card:hover .thumbnail img {
+    transform: scale(1.05);
+}
+
+/* Placeholder for when no thumbnail exists */
+.rant-card .thumbnail .placeholder {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3rem;
+    color: var(--white);
+    text-align: center;
+    padding: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px 0 var(--black);
+}
+
+/* Card Content */
+.rant-card .content {
+    padding: 1.5rem;
+}
+
+.rant-card .content h3 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.1;
 }
 
 .rant-card .meta {
+    font-family: 'Patrick Hand', cursive;
     font-weight: 700;
-    color: var(--red);
+    color: var(--burgundy);
     margin-bottom: 1rem;
     text-transform: uppercase;
+    font-size: 1rem;
 }
 
 .rant-card p {
-    font-size: 1.1rem;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.2rem;
     margin-bottom: 1.5rem;
+    color: var(--black);
 }
 
 .rant-card a {
@@ -122,10 +178,13 @@ nav a:hover {
     padding: 0.8rem 1.5rem;
     font-weight: 700;
     text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    transition: background 0.2s;
 }
 
 .rant-card a:hover {
-    background: var(--red);
+    background: var(--burgundy);
 }
 
 /* Post Styling */
@@ -142,8 +201,28 @@ article h1 {
 }
 
 article p {
-    font-size: 1.3rem;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.4rem;
     margin-bottom: 2rem;
+}
+
+article .merch-teaser {
+    background: var(--tea-cream);
+    border: 4px dashed var(--burgundy);
+    padding: 2rem;
+    margin: 3rem 0;
+    text-align: center;
+}
+
+article .merch-teaser h4 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: var(--burgundy);
+}
+
+article .merch-teaser p {
+    margin-bottom: 0;
 }
 
 article .quote {

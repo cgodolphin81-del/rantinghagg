@@ -37,4 +37,12 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## Netlify
+
+- **Personal Access Token:** `nfp_qq9hJ4TKqGu2tD65LvShsNycR48efiH8d608`
+- **Repo:** https://github.com/cgodolphin81-del/rantinghagg
+- **Publish Directory:** `Rantinghagg's HTML Website Code/`
+
+---
+
 Add whatever helps you do your job. This is your cheat sheet.

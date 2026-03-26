@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "created": "2026-03-26",
+    "lastUpdated": "2026-03-26T07:27:00Z",
+    "pipelineVersion": "1.0",
+    "heartbeatInterval": "10 minutes"
+  },
+  "episodes": [
+    {
+      "id": "001",
+      "episodeName": "The Corporate Jargon Death Loop",
+      "topic": "corporate-jargon",
+      "category": "Corporate BS",
+      "createdAt": "2026-03-26",
+      "priority": "high",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-corporate-jargon.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/001-corporate-jargon/rant.md", "completedAt": "2026-03-26" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending", "note": "Awaiting ComfyUI - thumbnail + scenes" },
+        "merch": { "status": "pending" },
+        "published": { "status": "complete", "url": "https://rantinghagg.netlify.app/rants/corporate-jargon.html", "completedAt": "2026-03-26" }
+      },
+      "nextAction": "script",
+      "notes": "Existing rant on website. Needs video script and thumbnails."
+    },
+    {
+      "id": "002",
+      "episodeName": "Stop Buying These 5-Step Success Books",
+      "topic": "self-help-books",
+      "category": "Self-Help Scam",
+      "createdAt": "2026-03-26",
+      "priority": "high",
+      "viralPotential": "high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-self-help.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/002-self-help-books/rant.md", "completedAt": "2026-03-26" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending", "note": "Awaiting ComfyUI - thumbnail + scenes" },
+        "merch": { "status": "pending" },
+        "published": { "status": "complete", "url": "https://rantinghagg.netlify.app/rants/self-help-books.html", "completedAt": "2026-03-26" }
+      },
+      "nextAction": "script",
+      "notes": "Existing rant on website. Needs video script and thumbnails."
+    },
+    {
+      "id": "003",
+      "episodeName": "Will AI Replace Me? Hopefully.",
+      "topic": "ai-replacing-us",
+      "category": "AI Apocalypse",
+      "createdAt": "2026-03-26",
+      "priority": "high",
+      "viralPotential": "very-high",
+      "stages": {
+        "research": { "status": "complete", "file": "RESEARCH/2026-03-26-ai.md", "completedAt": "2026-03-26" },
+        "idea": { "status": "complete", "approvedAt": "2026-03-26" },
+        "rant": { "status": "complete", "file": "EPISODES/003-ai-replacing-us/rant.md", "completedAt": "2026-03-26" },
+        "script": { "status": "pending" },
+        "prompts": { "status": "pending" },
+        "assets": { "status": "pending", "note": "Awaiting ComfyUI - thumbnail + scenes" },
+        "merch": { "status": "pending" },
+        "published": { "status": "complete", "url": "https://rantinghagg.netlify.app/rants/ai-replacing-us.html", "completedAt": "2026-03-26" }
+      },
+      "nextAction": "script",
+      "notes": "Existing rant on website. High viral potential. Prioritise."
+    }
+  ],
+  "queue": {
+    "nextEpisodeId": "004",
+    "pendingResearch": [],
+    "readyForScript": ["001", "002", "003"],
+    "readyForPrompts": [],
+    "awaitingAssets": [],
+    "readyForMerch": [],
+    "readyToPublish": []
+  }
+}
