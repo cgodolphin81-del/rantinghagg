@@ -82,13 +82,13 @@
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/004-smart-fridge/rant.md", "completedAt": "2026-03-26T07:45" },
         "script": { "status": "complete", "file": "EPISODES/004-smart-fridge/script.md", "completedAt": "2026-03-26T07:50" },
-        "prompts": { "status": "pending" },
+        "prompts": { "status": "complete", "file": "EPISODES/004-smart-fridge/prompts.md", "completedAt": "2026-03-26T07:55" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "prompts",
-      "notes": "Script complete (75s). Ready for prompts."
+      "nextAction": "merch",
+      "notes": "Prompts complete (75s). Ready for merch concepts."
     },
     {
       "id": "005",
@@ -103,13 +103,13 @@
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/005-authenticity-video/rant.md", "completedAt": "2026-03-26T07:45" },
         "script": { "status": "complete", "file": "EPISODES/005-authenticity-video/script.md", "completedAt": "2026-03-26T07:50" },
-        "prompts": { "status": "pending" },
+        "prompts": { "status": "complete", "file": "EPISODES/005-authenticity-video/prompts.md", "completedAt": "2026-03-26T07:55" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "prompts",
-      "notes": "Script complete (75s). Very high viral potential."
+      "nextAction": "merch",
+      "notes": "Prompts complete (75s). Very high viral potential."
     },
     {
       "id": "006",
@@ -124,22 +124,22 @@
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/006-expensive-candle/rant.md", "completedAt": "2026-03-26T07:45" },
         "script": { "status": "complete", "file": "EPISODES/006-expensive-candle/script.md", "completedAt": "2026-03-26T07:50" },
-        "prompts": { "status": "pending" },
+        "prompts": { "status": "complete", "file": "EPISODES/006-expensive-candle/prompts.md", "completedAt": "2026-03-26T07:55" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "prompts",
-      "notes": "Script complete (90s). Ready for prompts."
+      "nextAction": "merch",
+      "notes": "Prompts complete (90s). Ready for merch concepts."
     }
   ],
   "queue": {
     "nextEpisodeId": "007",
     "pendingResearch": [],
     "readyForScript": [],
-    "readyForPrompts": ["004", "005", "006"],
+    "readyForPrompts": [],
     "awaitingAssets": ["001", "002", "003"],
-    "readyForMerch": [],
+    "readyForMerch": ["004", "005", "006"],
     "readyToPublish": [],
     "blockedOnHuman": ["001", "002", "003"],
     "humanActionRequired": "ComfyUI image generation for episodes 001-003. Prompts ready in EPISODES/*/prompts.md"
