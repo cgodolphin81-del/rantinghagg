@@ -144,14 +144,14 @@
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-digital-detox.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/007-digital-detox/rant.md", "completedAt": "2026-03-26T08:05" },
-        "script": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/007-digital-detox/script.md", "completedAt": "2026-03-26T08:35" },
         "prompts": { "status": "pending" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "script",
-      "notes": "Rant complete. Ready for script writing."
+      "nextAction": "prompts",
+      "notes": "Script complete (75s). Ready for prompts."
     },
     {
       "id": "008",
@@ -165,14 +165,14 @@
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-dating-apps.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/008-dating-apps/rant.md", "completedAt": "2026-03-26T08:05" },
-        "script": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/008-dating-apps/script.md", "completedAt": "2026-03-26T08:35" },
         "prompts": { "status": "pending" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "script",
-      "notes": "Rant complete. Ready for script writing."
+      "nextAction": "prompts",
+      "notes": "Script complete (75s). Ready for prompts."
     },
     {
       "id": "009",
@@ -186,14 +186,14 @@
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-wellness-trends.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/009-wellness-trends/rant.md", "completedAt": "2026-03-26T08:05" },
-        "script": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/009-wellness-trends/script.md", "completedAt": "2026-03-26T08:35" },
         "prompts": { "status": "pending" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "script",
-      "notes": "Rant complete. Ready for script writing."
+      "nextAction": "prompts",
+      "notes": "Script complete (90s). Ready for prompts."
     },
     {
       "id": "010",
@@ -201,27 +201,27 @@
       "topic": "subscription-fatigue",
       "category": "Subscription Economy",
       "createdAt": "2026-03-26",
-      "priority": "medium",
+      "priority": "high",
       "viralPotential": "very-high",
       "stages": {
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-subscription-fatigue.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/010-subscription-fatigue/rant.md", "completedAt": "2026-03-26T08:05" },
-        "script": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/010-subscription-fatigue/script.md", "completedAt": "2026-03-26T08:35" },
         "prompts": { "status": "pending" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "script",
-      "notes": "Rant complete. Ready for script writing. High viral potential."
+      "nextAction": "prompts",
+      "notes": "Script complete (90s). Very high viral potential. Ready for prompts."
     }
   ],
   "queue": {
     "nextEpisodeId": "011",
     "pendingResearch": [],
-    "readyForScript": ["007", "008", "009", "010"],
-    "readyForPrompts": [],
+    "readyForScript": [],
+    "readyForPrompts": ["007", "008", "009", "010"],
     "awaitingAssets": ["001", "002", "003", "004", "005", "006"],
     "readyForMerch": [],
     "readyToPublish": [],
