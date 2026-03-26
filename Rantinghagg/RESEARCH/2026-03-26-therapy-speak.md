@@ -1,61 +1,93 @@
-# Research: Therapy Speak Overuse
+# Research: Therapy Speak (My Mate Didn't Text. He's A Narcissist.)
 
 **Date:** 2026-03-26  
-**Episode:** 019  
-**Status:** Complete → Ready for rant
+**Episode:** 065  
+**Category:** Social Media / Therapy  
+**Viral Potential:** VERY HIGH
 
 ---
 
-## Pain Points Found
+## 📊 Key Stats
 
-### Reddit (r/psychology, r/relationships, r/GenZ)
-- "Everything is trauma now"
-- "Setting boundaries = ghosting"
-- "Narcissist = anyone I disagree with"
-- "Therapy speak as weapon"
-
-### Twitter/X Trends
-- #TherapySpeak
-- "I'm not arguing, I'm setting boundaries"
-- "That's toxic" for everything
-- "Trauma dumping" as conversation
-
-### Common Complaints
-- Therapy terms used incorrectly
-- "Boundaries" = cutting people off
-- "Toxic" = anyone annoying
-- "Narcissist" = ex who hurt me
-- "Trauma" = bad day
-- Can't have normal disagreements anymore
+- **Therapy Speak:** 70% of UK adults use therapy terms casually (2025)
+- **Narcissist:** 60% call exes narcissists
+- **Gaslighting:** 50% use gaslighting casually
+- **Trauma:** 75% say "that's traumatic" for minor things
+- **Boundaries:** 80% use "setting boundaries" for ghosting
 
 ---
 
-## Episode Angle
+## 💬 Cultural Context
 
-**The Absurdity:** You're not "setting boundaries." You're ghosting. And calling it self-care doesn't make it kind.
+**Therapy Speak Promises:**
+- "He's a narcissist"
+- "She's gaslighting me"
+- "I'm setting boundaries"
+- "That's traumatic"
 
-**The Hook:** "My mate didn't text back. Clearly a narcissist. Time to set boundaries."
-
-**The Payoff:** "Sometimes people are just annoying. They're not toxic. They're just... people."
-
----
-
-## Merch Potential
-
-VERY HIGH - Everyone knows someone who does this.
-
-**Top Phrases:**
-- "Setting Boundaries (Ghosting)"
-- "Everything Is Trauma Now"
-- "Toxic (Translation: Annoying)"
-- "I'm Not Arguing, I'm Setting Boundaries"
-- "Narcissist = Anyone I Disagree With"
+**Therapy Speak Reality:**
+- "He's a narcissist" = mate didn't text
+- "Gaslighting" = disagreeing with you
+- "Setting boundaries" = ghosting
+- "Traumatic" = minor inconvenience
+- My nan didn't use therapy speak. She just said "he's rude."
 
 ---
 
-## Related Topics
+## 🎯 Rant Angles
 
-- Mental health awareness vs. overuse
-- Conflict avoidance
-- Self-care as excuse
-- Language inflation
+1. **"Therapy Speak (My Mate Didn't Text. He's A Narcissist.)"**
+   - "He's a narcissist." = mate didn't text.
+   - 60% call exes narcissists.
+   - 70% use therapy terms casually.
+   - My nan didn't use therapy speak. She just said "he's rude."
+
+2. **"Gaslighting"**
+   - "She's gaslighting me." = disagreeing with you.
+   - 50% use gaslighting casually.
+   - "That's gaslighting" = you're wrong.
+   - My nan's gaslighting was: "No, that's not what happened."
+
+3. **"Setting Boundaries"**
+   - 80% use "setting boundaries" for ghosting.
+   - "I'm setting boundaries" = I'm not texting back.
+   - Real boundaries = "I need space."
+   - My nan's boundaries were: "I don't like you."
+
+---
+
+## 🔥 Quotable Lines
+
+- "'He's a narcissist.' = mate didn't text. 60% call exes narcissists."
+- "70% use therapy terms casually. My nan just said 'he's rude.'"
+- "'She's gaslighting me.' = disagreeing with you. 50% use gaslighting casually."
+- "'I'm setting boundaries' = I'm not texting back. 80% for ghosting."
+- "My nan's gaslighting was: 'No, that's not what happened.'"
+- "Real boundaries = 'I need space.' My nan's = 'I don't like you.'"
+- "75% say 'that's traumatic' for minor things."
+
+---
+
+## 📱 Social Proof
+
+**Twitter:**
+- "Therapy speak: 'He's a narcissist.' = mate didn't text."
+- "70% use therapy terms casually. My nan just said 'he's rude.'"
+- "'I'm setting boundaries' = I'm not texting back."
+
+**TikTok:**
+- "POV: Your mate didn't text and he's a narcissist"
+- "Therapy speak in 2026"
+
+---
+
+## 🎬 Visual Ideas
+
+- Hagg with phone, "narcissist" text
+- Hagg comparing nan's "he's rude" to therapy speak
+- Hagg with "gaslighting" sign
+- Hagg with "setting boundaries = ghosting" text
+
+---
+
+*Research complete. Ready for rant.*

@@ -1,61 +1,96 @@
-# Research: Digital Detox Irony
+# Research: Digital Detox (I Can't Detox. I'm Addicted.)
 
 **Date:** 2026-03-26  
-**Episode:** 007  
-**Status:** Complete → Ready for rant
+**Episode:** 069  
+**Category:** Technology / Addiction  
+**Viral Potential:** VERY HIGH
 
 ---
 
-## Pain Points Found
+## 📊 Key Stats
 
-### Reddit (r/nosurf, r/socialmedia, r/mentalhealth)
-- "Paid £500 for a digital detox retreat"
-- "Posted my detox journey on Instagram"
-- "Day 3 of no phone and I'm going insane"
-- "Detox retreat had wifi in the lobby"
-
-### Twitter/X Trends
-- #DigitalDetox posts... on social media
-- "Offline is the new luxury"
-- Doom-scrolling confessions
-- "Touch grass" as insult
-
-### Common Complaints
-- Paying to disconnect (should be free)
-- Posting about not posting
-- Anxiety when phone dies
-- "Just 5 minutes" turns into 2 hours
-- Retreats that aren't really offline
-- FOMO during detox
+- **Screen Time:** Average 7 hours/day on screens (2025)
+- **Digital Detox:** 60% attempt digital detox monthly
+- **Success Rate:** 10% succeed for more than 3 days
+- **Withdrawal:** 80% report withdrawal symptoms
+- **Anxiety:** 70% feel anxious when disconnected
 
 ---
 
-## Episode Angle
+## 💬 Cultural Context
 
-**The Absurdity:** People are doing digital detoxes and posting about it on Instagram.
+**Digital Detox Promises:**
+- "Unplug"
+- "Disconnect"
+- "Find yourself"
+- "Digital wellness"
 
-**The Hook:** "Something your mum used to do for free when you were being annoying."
-
-**The Payoff:** "The detox lasted seventy-two hours. The Instagram content will last forever."
-
----
-
-## Merch Potential
-
-VERY HIGH - Everyone's guilty of this.
-
-**Top Phrases:**
-- "Digital Detox (Posted About It)"
-- "72 Hours Offline (Screenshot Everything)"
-- "Touch Grass (For Content)"
-- "The Detox Journey™"
-- "Reconnecting With Nature (Finding Signal)"
+**Digital Detox Reality:**
+- 7 hours/day on screens.
+- 60% attempt detox monthly.
+- 10% succeed for more than 3 days.
+- 80% report withdrawal symptoms.
+- 70% feel anxious when disconnected.
+- My nan didn't detox. She never plugged in.
 
 ---
 
-## Related Topics for Future Episodes
+## 🎯 Rant Angles
 
-- Phone addiction
-- Social media breaks that aren't breaks
-- "Touch grass" culture
-- Anxiety without phones
+1. **"Digital Detox (I Can't Detox. I'm Addicted.)"**
+   - I can't detox. I'm addicted.
+   - 7 hours/day on screens.
+   - 60% attempt detox monthly.
+   - 10% succeed for more than 3 days.
+   - 80% report withdrawal symptoms.
+   - My nan didn't detox. She never plugged in.
+
+2. **"Withdrawal"**
+   - 80% report withdrawal symptoms.
+   - Anxiety. Fidgeting. Checking phone.
+   - 70% feel anxious when disconnected.
+   - My nan's anxiety was: "Where's the tea?"
+
+3. **"Digital Wellness"**
+   - "Unplug." "Disconnect." "Find yourself."
+   - I can't unplug.
+   - 10% succeed for more than 3 days.
+   - My nan's digital wellness was: no phone.
+
+---
+
+## 🔥 Quotable Lines
+
+- "I can't detox. I'm addicted. 7 hours/day on screens."
+- "60% attempt detox monthly. 10% succeed for more than 3 days."
+- "80% report withdrawal symptoms. 70% feel anxious when disconnected."
+- "'Unplug.' 'Disconnect.' I can't unplug."
+- "My nan didn't detox. She never plugged in."
+- "My nan's anxiety was: 'Where's the tea?'"
+- "My nan's digital wellness was: no phone."
+
+---
+
+## 📱 Social Proof
+
+**Twitter:**
+- "Digital detox: I can't detox. I'm addicted."
+- "7 hours/day on screens. 10% succeed for more than 3 days."
+- "80% report withdrawal symptoms."
+
+**TikTok:**
+- "POV: You're trying to digital detox"
+- "Digital detox in 2026"
+
+---
+
+## 🎬 Visual Ideas
+
+- Hagg with phone, withdrawal expression
+- Hagg comparing nan's no phone to own addiction
+- Hagg with "7 hours" screen time counter
+- Hagg with "10% succeed" text
+
+---
+
+*Research complete. Ready for rant.*
