@@ -81,14 +81,14 @@
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-smart-home.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/004-smart-fridge/rant.md", "completedAt": "2026-03-26T07:45" },
-        "script": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/004-smart-fridge/script.md", "completedAt": "2026-03-26T07:50" },
         "prompts": { "status": "pending" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "script",
-      "notes": "Rant complete. Ready for script writing."
+      "nextAction": "prompts",
+      "notes": "Script complete (75s). Ready for prompts."
     },
     {
       "id": "005",
@@ -96,20 +96,20 @@
       "topic": "authenticity",
       "category": "Social Media Culture",
       "createdAt": "2026-03-26",
-      "priority": "medium",
+      "priority": "high",
       "viralPotential": "very-high",
       "stages": {
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-authenticity.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/005-authenticity-video/rant.md", "completedAt": "2026-03-26T07:45" },
-        "script": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/005-authenticity-video/script.md", "completedAt": "2026-03-26T07:50" },
         "prompts": { "status": "pending" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "script",
-      "notes": "Rant complete. High viral potential. Ready for script."
+      "nextAction": "prompts",
+      "notes": "Script complete (75s). Very high viral potential."
     },
     {
       "id": "006",
@@ -123,21 +123,21 @@
         "research": { "status": "complete", "file": "RESEARCH/2026-03-26-expensive-candle.md", "completedAt": "2026-03-26" },
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/006-expensive-candle/rant.md", "completedAt": "2026-03-26T07:45" },
-        "script": { "status": "pending" },
+        "script": { "status": "complete", "file": "EPISODES/006-expensive-candle/script.md", "completedAt": "2026-03-26T07:50" },
         "prompts": { "status": "pending" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "script",
-      "notes": "Rant complete. Ready for script writing."
+      "nextAction": "prompts",
+      "notes": "Script complete (90s). Ready for prompts."
     }
   ],
   "queue": {
     "nextEpisodeId": "007",
     "pendingResearch": [],
-    "readyForScript": ["004", "005", "006"],
-    "readyForPrompts": [],
+    "readyForScript": [],
+    "readyForPrompts": ["004", "005", "006"],
     "awaitingAssets": ["001", "002", "003"],
     "readyForMerch": [],
     "readyToPublish": [],
