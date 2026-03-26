@@ -1,92 +1,88 @@
-# Research: Online Shopping (I Bought A Toaster. Again.)
+# Research: Online Shopping (I Ordered It. I Don't Need It.)
 
 **Date:** 2026-03-26  
-**Episode:** 038  
-**Category:** Consumer Culture  
+**Episode:** 091  
+**Category:** Shopping / Lifestyle  
 **Viral Potential:** VERY HIGH
 
 ---
 
 ## 📊 Key Stats
 
-- **Online Shopping:** £700 billion spent online in UK (2025)
-- **Average Orders:** 45 online orders/month per adult
-- **Returns Rate:** 30% of online purchases are returned
-- **Impulse Buys:** 60% of purchases are impulse buys
-- **Delivery Costs:** Average £15/month on delivery fees
+- **E-commerce:** £75 billion/year in UK (2025)
+- **Returns:** 30% of online purchases returned
+- **Impulse Buys:** 60% of online orders are impulse
+- **Delivery:** 500M+ packages delivered daily globally
+- **Cart Abandonment:** 70% of carts abandoned before checkout
 
 ---
 
 ## 💬 Cultural Context
 
 **Online Shopping Promises:**
-- "Click and collect"
-- "Free delivery"
-- "Easy returns"
-- "Best prices"
+- "Everything, delivered"
+- "Free returns"
+- "Best price guaranteed"
+- "Add to cart, forget"
 
 **Online Shopping Reality:**
-- Endless scrolling
-- Bought 17 things, returned 14
-- "Free delivery" = £40 minimum spend
-- Returns cost time, not money
-- You don't need it, but you want it
+- £75 billion/year in UK.
+- 30% of online purchases returned.
+- 60% of online orders are impulse.
+- 500M+ packages delivered daily globally.
+- 70% of carts abandoned before checkout.
+- My nan's shopping: Went to shop. Bought what she needed.
 
 ---
 
 ## 🎯 Rant Angles
 
-1. **"Online Shopping (I Bought A Toaster. Again.)"**
-   - I have three toasters.
-   - I bought a fourth one online.
-   - It's £12. It's "free delivery."
-   - I don't need it. I want it.
+1. **"I Ordered It. I Don't Need It."**
+   - I ordered it. I don't need it.
+   - £75 billion/year in UK.
+   - 30% of online purchases returned.
+   - 60% of online orders are impulse.
 
-2. **"Click And Collect (Then Forget)"**
-   - "Click and collect" = collect from shop
-   - "Collect from home" = leave it in hallway
-   - "Collect from locker" = forgot it exists
-   - "Click and forget" = three months later
+2. **"Add To Cart"**
+   - "Add to cart, forget."
+   - 500M+ packages delivered daily globally.
+   - 70% of carts abandoned before checkout.
+   - I'm in the 70%.
 
-3. **"The Algorithm Knows You Too Well"**
-   - I looked at one pair of shoes.
-   - Now every ad is shoes.
-   - "You might like..." = it's watching me.
-   - The algorithm knows me better than I know myself.
+3. **"Went To Shop"**
+   - My nan's shopping: Went to shop.
+   - Bought what she needed.
+   - I order what I don't need.
 
 ---
 
 ## 🔥 Quotable Lines
 
-- "I have three toasters. I bought a fourth one online. It's £12."
-- "Online shopping: 45 orders/month. 30% returned. 60% impulse buys."
-- "Click and collect = collect from shop. Then forget."
-- "The algorithm knows you too well. I looked at one pair of shoes."
-- "Free delivery = £40 minimum spend. Or you're paying £4.99."
-- "My nan bought at the market. I buy from an algorithm."
-- "I bought a toaster. Again. I have three toasters."
+- "I ordered it. I don't need it. £75 billion/year in UK."
+- "30% of online purchases returned. 60% of online orders are impulse."
+- "500M+ packages delivered daily globally."
+- "70% of carts abandoned before checkout. I'm in the 70%."
+- "My nan's shopping: Went to shop. Bought what she needed."
 
 ---
 
 ## 📱 Social Proof
 
 **Twitter:**
-- "I have three toasters. I bought a fourth one online. It's £12."
-- "Online shopping: 45 orders/month. 30% returned. 60% impulse buys."
-- "The algorithm knows me better than I know myself. I looked at one pair of shoes."
+- "£75 billion/year in UK. 30% of online purchases returned."
+- "500M+ packages delivered daily globally. 70% of carts abandoned."
 
 **TikTok:**
-- "POV: You bought a toaster. Again. You have three toasters."
-- "Online shopping returns: 17 bought, 14 returned"
+- "POV: You ordered it but don't need it"
+- "Online shopping in 2026"
 
 ---
 
 ## 🎬 Visual Ideas
 
-- Hagg with online shopping app, overwhelmed
-- Hagg surrounded by packages, exhausted
-- Hagg at return counter, frustrated
-- Hagg comparing toaster collection
+- Hagg with packages, overwhelmed
+- Hagg comparing nan's shopping to own
+- Hagg with abandoned cart, frustrated
 
 ---
 
