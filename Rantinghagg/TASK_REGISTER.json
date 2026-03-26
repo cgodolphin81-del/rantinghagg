@@ -420,13 +420,13 @@
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/011-influencer-culture/rant.md", "completedAt": "2026-03-26T08:45" },
         "script": { "status": "complete", "file": "EPISODES/011-influencer-culture/script.md", "completedAt": "2026-03-26T08:50" },
-        "prompts": { "status": "pending" },
+        "prompts": { "status": "complete", "file": "EPISODES/011-influencer-culture/prompts.md", "completedAt": "2026-03-26T08:55" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "prompts",
-      "notes": "Script complete. Ready for prompts."
+      "nextAction": "merch",
+      "notes": "All complete except assets/merch."
     },
     {
       "id": "012",
@@ -441,13 +441,13 @@
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/012-smartphone-addiction/rant.md", "completedAt": "2026-03-26T08:45" },
         "script": { "status": "complete", "file": "EPISODES/012-smartphone-addiction/script.md", "completedAt": "2026-03-26T08:50" },
-        "prompts": { "status": "pending" },
+        "prompts": { "status": "complete", "file": "EPISODES/012-smartphone-addiction/prompts.md", "completedAt": "2026-03-26T08:55" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "prompts",
-      "notes": "Script complete. Very high viral potential."
+      "nextAction": "merch",
+      "notes": "All complete except assets/merch."
     },
     {
       "id": "013",
@@ -462,13 +462,13 @@
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/013-gig-economy/rant.md", "completedAt": "2026-03-26T08:45" },
         "script": { "status": "complete", "file": "EPISODES/013-gig-economy/script.md", "completedAt": "2026-03-26T08:50" },
-        "prompts": { "status": "pending" },
+        "prompts": { "status": "complete", "file": "EPISODES/013-gig-economy/prompts.md", "completedAt": "2026-03-26T08:55" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "prompts",
-      "notes": "Script complete. Ready for prompts."
+      "nextAction": "merch",
+      "notes": "All complete except assets/merch."
     },
     {
       "id": "014",
@@ -483,13 +483,13 @@
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/014-housing-market/rant.md", "completedAt": "2026-03-26T08:45" },
         "script": { "status": "complete", "file": "EPISODES/014-housing-market/script.md", "completedAt": "2026-03-26T08:50" },
-        "prompts": { "status": "pending" },
+        "prompts": { "status": "complete", "file": "EPISODES/014-housing-market/prompts.md", "completedAt": "2026-03-26T08:55" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "prompts",
-      "notes": "Script complete. Very high viral potential."
+      "nextAction": "merch",
+      "notes": "All complete except assets/merch."
     },
     {
       "id": "015",
@@ -504,22 +504,22 @@
         "idea": { "status": "complete", "approvedAt": "2026-03-26" },
         "rant": { "status": "complete", "file": "EPISODES/015-ai-everywhere/rant.md", "completedAt": "2026-03-26T08:45" },
         "script": { "status": "complete", "file": "EPISODES/015-ai-everywhere/script.md", "completedAt": "2026-03-26T08:50" },
-        "prompts": { "status": "pending" },
+        "prompts": { "status": "complete", "file": "EPISODES/015-ai-everywhere/prompts.md", "completedAt": "2026-03-26T08:55" },
         "assets": { "status": "pending" },
         "merch": { "status": "pending" },
         "published": { "status": "pending" }
       },
-      "nextAction": "prompts",
-      "notes": "Script complete. Ready for prompts."
+      "nextAction": "merch",
+      "notes": "All complete except assets/merch."
     }
   ],
   "queue": {
     "nextEpisodeId": "016",
     "pendingResearch": [],
     "readyForScript": [],
-    "readyForPrompts": ["011", "012", "013", "014", "015"],
-    "readyForMerch": ["007", "008", "009", "010"],
-    "awaitingAssets": ["001", "002", "003", "004", "005", "006", "007", "008", "009", "010"],
+    "readyForPrompts": [],
+    "readyForMerch": ["007", "008", "009", "010", "011", "012", "013", "014", "015"],
+    "awaitingAssets": ["001", "002", "003", "004", "005", "006", "007", "008", "009", "010", "011", "012", "013", "014", "015"],
     "readyToPublish": [],
     "blockedOnHuman": ["001", "002", "003", "004", "005", "006"],
     "humanActionRequired": "ComfyUI image generation for episodes 001-006. Prompts ready in EPISODES/*/prompts.md"
